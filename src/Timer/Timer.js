@@ -24,16 +24,13 @@ export default function Timer(props) {
   }, [timer.time, timer.startbtn] );
 
   const TimerUpdate = () => {
-    console.log(timer.time);
     if (timer.time > 0) {
       let Newtime = timer.time - 1;
-      console.log(Newtime);
       setTimer({
         ...timer,
         time: Newtime,
       });
       onTick(timer.time);
-      console.log("1234");
     } else {
       restartNewTimer();
     }
@@ -62,7 +59,6 @@ export default function Timer(props) {
   };
   return (
     <div className="Timer">
-      {timer.time}
       <div className="Circle__process">
         <Circle
           percent={timer.time * 10}
