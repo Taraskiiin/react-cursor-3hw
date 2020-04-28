@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://taraskiiin.github.io/hw3-cursor/",
+  "homepage": "http://taraskiiin.github.io/react-cursor-3hw/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
