@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cursor-3hw/static/css/main.2fd6805e.chunk.css",
+    "main.js": "/react-cursor-3hw/static/js/main.4cabcf82.chunk.js",
+    "main.js.map": "/react-cursor-3hw/static/js/main.4cabcf82.chunk.js.map",
+    "runtime-main.js": "/react-cursor-3hw/static/js/runtime-main.182b4678.js",
+    "runtime-main.js.map": "/react-cursor-3hw/static/js/runtime-main.182b4678.js.map",
+    "static/js/2.be408186.chunk.js": "/react-cursor-3hw/static/js/2.be408186.chunk.js",
+    "static/js/2.be408186.chunk.js.map": "/react-cursor-3hw/static/js/2.be408186.chunk.js.map",
+    "index.html": "/react-cursor-3hw/index.html",
+    "precache-manifest.4a87d7931b3c6f97e3924495d7282522.js": "/react-cursor-3hw/precache-manifest.4a87d7931b3c6f97e3924495d7282522.js",
+    "service-worker.js": "/react-cursor-3hw/service-worker.js",
+    "static/css/main.2fd6805e.chunk.css.map": "/react-cursor-3hw/static/css/main.2fd6805e.chunk.css.map",
+    "static/js/2.be408186.chunk.js.LICENSE.txt": "/react-cursor-3hw/static/js/2.be408186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.182b4678.js",
+    "static/js/2.be408186.chunk.js",
+    "static/css/main.2fd6805e.chunk.css",
+    "static/js/main.4cabcf82.chunk.js"
+  ]
+}
